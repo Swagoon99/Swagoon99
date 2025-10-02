@@ -4,7 +4,7 @@ I'm passionate about **Cloud Security** and currently diving deeper into the **M
 
 - 🔭 I’m currently working as a **Cybersecurity Analyst**  
 - 🌱 I am an **Azure Security Engineer Associate**  
-- 👯 I’m looking to collaborate on projects related to **Security Engineering and cloud Security**  
+- 👯 I’m looking to collaborate on projects related to **Security Engineering and Cloud Security**  
 - 🤔 I’m open to connecting with others who are learning or working in **Cloud Security**  
 - 💬 Contact me for opportunities and collaborations.
 - 📫 How to reach me: frederickadigun@gmail.com
